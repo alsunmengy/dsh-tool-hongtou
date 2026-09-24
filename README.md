@@ -1,4 +1,5 @@
 # dsh-tool-hongtou
+[![GitHub followers](https://img.shields.io/github/followers/alsunmengy?style=social&label=Follow)](https://github.com/alsunmengy)
 
 DeepSeek Harness 红头公文总结插件（Cordis 主机侧插件）——**两阶段解耦流水线**。
 
